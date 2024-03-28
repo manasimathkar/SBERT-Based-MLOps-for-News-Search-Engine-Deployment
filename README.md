@@ -1,7 +1,6 @@
 # SBERT Based MLOps for News Search Engine Deployment
 
 ## Aim
-<br><br>
 This project aims to improve the search experience for news articles by leveraging the
 Sentence-BERT (SBERT) model and the ANNOY approximate nearest neighbor library.
 The project will be deployed on AWS using Docker containers and exposed as a Flask
