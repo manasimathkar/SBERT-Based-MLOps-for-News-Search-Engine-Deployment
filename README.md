@@ -1,1 +1,1 @@
-# manasimathkar-SBERT-Based-MLOps-for-News-Search-Engine-Deployment
+# SBERT Based MLOps for News Search Engine Deployment
